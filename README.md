@@ -2,7 +2,7 @@
 
 ### Hello, I am Deepali :D
 
-- I am a 24 yo – born in Delhi, brought up in Delhi, Nanital, Pune, Gurgaon, and Bhiwadi
+- I am a 24 yo 
 - SWE-II at Google Bangalore
 - ex-Advanced Software Developer at Samsung R&D Bangalore 
 - BTech. in Computer Science and Engineering at IIT Mandi (2019-2023)
