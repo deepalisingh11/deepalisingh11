@@ -14,4 +14,4 @@
   - Community Manager for The Girl Code 
 
 
-Find my [CV](https://github.com/deepalisingh11/deepali/blob/main/DeepaliSingh_CV.pdf) here!
+Find my [resume](https://github.com/deepalisingh11/deepali/blob/main/Deepali_Singh_resume.pdf) here!
